@@ -4,7 +4,7 @@
 
 ## Библиотеки
 
-- `pandas` - для анализа данных
+`pandas`, `matplotlib`, `pyplot` и `seaborn`
 
 
 ## Описание данных
