@@ -28,7 +28,7 @@ ___
 
 ## Описание данных
 
-Данные взяты с сайте [ChaLearn Looking at People](https://chalearnlap.cvc.uab.cat/dataset/26/description/).
+Данные взяты с сайта [ChaLearn Looking at People](https://chalearnlap.cvc.uab.cat/dataset/26/description/).
 
 В нашем распоряжении одна папка со всеми изображениями `(/final_files)` и *csv*-файл `labels.csv` с двумя колонками: `file_name` и `real_age`.
 
