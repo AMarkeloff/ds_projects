@@ -31,6 +31,8 @@
 |13|[Модель классификации комментариев](https://github.com/AMarkeloff/ds_projects/tree/main/toxic_comments_classification)|Интернет-магазин запускает новый сервис: пользователи смогут редактировать и дополнять описания товаров. Построим инструмент, который будет идентифицировать токсичные комментарии, чтобы отправить их на модерацию. Стоит присмотреться к:  `pandas`, `numpy`, `seaborn`, `matplotlib`, `re`, `nltk`, `sklearn`|машинное обучения для текстов, задача классификации, `TfidfVectorizer`, `stopwords`, `LogisticRegression` , `DecisionTreeClassifier`, `RandomForestClassifier`, `DummyClassifier`,  `train_test_split`, `pyplot`, `accuracy_score`, `confusion_matrix`, `classification_report`, `f1_score`, `roc_curve`, `roc_auc_score`|
 |14|[Определение возраста по фотографии](https://github.com/AMarkeloff/ds_projects/tree/main/age_by_photo)|В нашем распоряжении набор фотографий людей с указанием возраста. Строим модель, которая по фотографии определит приблизительный возраст человека. Зачем: сетевой ритейлер внедряет систему компьютерного зрения для определния возраста покупателей по фото. *Точно понадобятся*: `tensorflow.keras`, `ImageDataGenerator`, `pandas`, `matplotlib`, `seaborn`|регрессия, Обработка изображений, компьютерное зрение, обучение нейронной сети, сверточная и полносвязная нейронные сети|
 
+___
+
 ## Спасибо
 
 **Спасибо**, что заглянули на мою страничку, посетили мой репозиторий.
